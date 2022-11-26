@@ -1,0 +1,15 @@
+body{
+  
+}
+
+svg{
+  cursor: pointer;
+}
+
+.drop{
+  width:400px;
+  height:300px;
+  align-items: center;
+  align-content: center;
+  border-radius: 10px;
+}
